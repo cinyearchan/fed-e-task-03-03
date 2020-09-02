@@ -1,0 +1,3 @@
+[submodule "code/realworld-nuxtjs"]
+	path = code/realworld-nuxtjs
+	url = https://github.com/cinyearchan/realworld-nuxtjs.git
